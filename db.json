@@ -1,0 +1,50 @@
+{
+  "utenti": [
+    {
+      "id": 1,
+      "nome": "Mario Rossi",
+      "email": "mario.rossi@example.com",
+      "password": "password123",
+      "ruolo": "agente"
+    },
+    {
+      "id": 2,
+      "nome": "Giulia Bianchi",
+      "email": "giulia.bianchi@example.com",
+      "password": "giulia2024",
+      "ruolo": "cliente"
+    },
+    {
+      "id": 3,
+      "nome": "Luca Verdi",
+      "email": "luca.verdi@example.com",
+      "password": "luca_test",
+      "ruolo": "cliente"
+    }
+  ],
+  "automobili": [
+    {
+      "id": 1,
+      "marca": "Fiat",
+      "modello": "Panda",
+      "anno": 2022,
+      "targa": "AB123CD",
+      "disponibile": true
+    },
+    {
+      "id": 2,
+      "marca": "Volkswagen",
+      "modello": "Golf",
+      "anno": 2021,
+      "targa": "EF456GH",
+      "disponibile": false
+    },
+    {
+      "id": 3,
+      "marca": "Tesla",
+      "modello": "Model 3",
+      "anno": 2023,
+      "targa": "IJ789KL",
+      "disponibile": true
+    }
+  ],
