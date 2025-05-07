@@ -29,6 +29,7 @@
       "modello": "Panda",
       "anno": 2022,
       "targa": "AB123CD",
+      "colore": "Rosso",
       "disponibile": true
     },
     {
@@ -37,6 +38,7 @@
       "modello": "Golf",
       "anno": 2021,
       "targa": "EF456GH",
+      "colore": "Verde",
       "disponibile": false
     },
     {
@@ -45,6 +47,7 @@
       "modello": "Model 3",
       "anno": 2023,
       "targa": "IJ789KL",
+      "colore": "Nero",
       "disponibile": true
     }
   ]
