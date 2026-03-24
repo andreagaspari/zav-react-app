@@ -27,6 +27,7 @@
       "id": 1,
       "marca": "Fiat",
       "modello": "Panda",
+      "immagine": "https://dimages2.gazzettaobjects.it/files/image_528_298/uploads/2022/02/11/6205ba15a8c55.jpeg",
       "anno": 2022,
       "targa": "AB123CD",
       "colore": "Rosso",
@@ -36,6 +37,7 @@
       "id": 2,
       "marca": "Volkswagen",
       "modello": "Golf",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/VW_Golf_III_front_20070522.jpg/1280px-VW_Golf_III_front_20070522.jpg",
       "anno": 2021,
       "targa": "EF456GH",
       "colore": "Verde",
@@ -45,6 +47,7 @@
       "id": 3,
       "marca": "Tesla",
       "modello": "Model 3",
+      "immagine": "https://www.greenstart.it/wp/wp-content/uploads/2017/05/tesla-model-3-nera-spy.jpg"
       "anno": 2023,
       "targa": "IJ789KL",
       "colore": "Nero",
