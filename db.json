@@ -52,6 +52,96 @@
       "targa": "IJ789KL",
       "colore": "Nero",
       "disponibile": true
+    },
+    {
+      "id": 4,
+      "marca": "BMW",
+      "modello": "Serie 1",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/9/90/BMW_118i_F40_IMG_3537.jpg",
+      "anno": 2020,
+      "targa": "LM123NO",
+      "colore": "Bianco",
+      "disponibile": true
+    },
+    {
+      "id": 5,
+      "marca": "Audi",
+      "modello": "A3",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Audi_A3_Sportback_2020_IMG_3480.jpg",
+      "anno": 2022,
+      "targa": "PQ456RS",
+      "colore": "Grigio",
+      "disponibile": false
+    },
+    {
+      "id": 6,
+      "marca": "Mercedes",
+      "modello": "Classe A",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mercedes-Benz_A_180_d_AMG_Line_%28W177%29_IMG_3705.jpg",
+      "anno": 2021,
+      "targa": "TU789VW",
+      "colore": "Blu",
+      "disponibile": true
+    },
+    {
+      "id": 7,
+      "marca": "Toyota",
+      "modello": "Yaris",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/2/24/Toyota_Yaris_2020_IMG_3519.jpg",
+      "anno": 2023,
+      "targa": "XY123ZA",
+      "colore": "Argento",
+      "disponibile": true
+    },
+    {
+      "id": 8,
+      "marca": "Ford",
+      "modello": "Focus",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ford_Focus_ST-Line_2019_IMG_3085.jpg",
+      "anno": 2019,
+      "targa": "BC234DE",
+      "colore": "Nero",
+      "disponibile": false
+    },
+    {
+      "id": 9,
+      "marca": "Hyundai",
+      "modello": "i30",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hyundai_i30_2017_IMG_2966.jpg",
+      "anno": 2020,
+      "targa": "FG567HI",
+      "colore": "Bianco",
+      "disponibile": true
+    },
+    {
+      "id": 10,
+      "marca": "Peugeot",
+      "modello": "208",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Peugeot_208_II_IMG_3546.jpg",
+      "anno": 2022,
+      "targa": "JK890LM",
+      "colore": "Giallo",
+      "disponibile": true
+    },
+    {
+      "id": 11,
+      "marca": "Renault",
+      "modello": "Clio",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Renault_Clio_V_IMG_3702.jpg",
+      "anno": 2021,
+      "targa": "NO123PQ",
+      "colore": "Rosso",
+      "disponibile": false
+    },
+    {
+      "id": 12,
+      "marca": "Kia",
+      "modello": "Ceed",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kia_Ceed_2019_IMG_2940.jpg",
+      "anno": 2020,
+      "targa": "RS456TU",
+      "colore": "Blu",
+      "disponibile": true
     }
   ]
 }
